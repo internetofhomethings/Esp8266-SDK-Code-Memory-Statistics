@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\EspMemUsage\EspMemUsage\bin\Debug\EspMemUsage.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\EspMemUsage\EspMemUsage\bin\Debug\EspMemUsage.exe
+c:\users\owner\documents\visual studio 2015\Projects\EspMemUsage\EspMemUsage\bin\Debug\EspMemUsage.pdb
+c:\users\owner\documents\visual studio 2015\Projects\EspMemUsage\EspMemUsage\obj\Debug\EspMemUsage.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\EspMemUsage\EspMemUsage\obj\Debug\EspMemUsage.exe
+c:\users\owner\documents\visual studio 2015\Projects\EspMemUsage\EspMemUsage\obj\Debug\EspMemUsage.pdb
